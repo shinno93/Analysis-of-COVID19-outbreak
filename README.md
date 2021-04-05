@@ -1,5 +1,17 @@
-# Analysis-of-COVID19-outbreak
+# Analysis-of-COVID19-Outbreak
 Analysis of COVID19 outbreak using data mining techniques
+
+## Task 2: Identifying potential COVID-19 positive patients and their characteristics
+
+A subset of the COVID-19 hospitalization dataset with 111 attributes about the patients hospitalized in doubt for COVID-19 in a hospital in Brazil has been provided.<br>
+The hospital wants to identify potential COVID-19 positive-case patients and their characteristics. This will help the hospital to focus on intensive treatment towards the most vulnerable patients and prepare for additional necessary medical facilities including
+medicines, intensive care units’ beds, staff, etc.<br>
+<br>
+Task<br>
+The task is to
+(1) predict if the patient is positive to COVID-19 based on the characteristics recorded in the dataset, and (2) inform the hospital the prominent characteristics of COVID-19 patients and insight with this dataset for making informed decisions. <br>
+
+
 
 ## Task 3 (a): Clustering hospitals according to their bed capacity
 
