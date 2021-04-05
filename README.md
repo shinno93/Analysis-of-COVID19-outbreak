@@ -1,6 +1,13 @@
 # Analysis-of-COVID19-Outbreak
 Analysis of COVID19 outbreak using data mining techniques
 
+## Task 1: Understanding global outbreak of COVID-19
+
+A subset of the COVID-19 world-wide dataset with daily counts of confirmed cases, death tolls and revocered cases for each country is provided.<br>
+<br>
+Task<br>
+The task is to provide an analysis on the current situation of global COVID-19 outbreak as of the 23rd of April, 2020. It aims to identify questions such as what are the countries which have the most active cases and which countries have peaked out.<br> 
+
 ## Task 2: Identifying potential COVID-19 positive patients and their characteristics
 
 A subset of the COVID-19 hospitalization dataset with 111 attributes about the patients hospitalized in doubt for COVID-19 in a hospital in Brazil has been provided.<br>
